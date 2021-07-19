@@ -1,9 +1,9 @@
 import React from "react";
 import Header from './Header';
 
-function About() {
+function Home() {
   return (
-    <section class="page-section" id="about">
+    <section class="page-section" id="">
       <Header></Header>
       <div class="container">
         <div class="text-center">
@@ -31,4 +31,4 @@ function About() {
   );
 }
 
-export default About;
+export default Home;
