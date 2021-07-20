@@ -19,7 +19,7 @@ function Portfolio() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="../public/assets/img/portfolio/project01/savetv-thumbnail.gif" alt="" />
+                                <img class="img-fluid" src="https://i.imgur.com/czbuVWL.gif" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Save Tv</div>
@@ -35,7 +35,7 @@ function Portfolio() {
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">Save TV</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/project01/savetv.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="https://i.imgur.com/cKM2whI.png" alt="" />
                                     <p>Thanks to the pandemic impacting everyone these days Most of us are spending a lot more time stuck inside
                                        That means this is the chance to catch up on that backlog of TV shows that you've been telling yourself you'll get around too
                                        So there comes our website branded as SAVE TV
@@ -72,7 +72,7 @@ function Portfolio() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/project02/budget_tracker_thumbnail.png" alt="" />
+                                <img class="img-fluid" src="https://i.imgur.com/JIo4dRo.png" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Budget Tracker</div>
@@ -88,7 +88,7 @@ function Portfolio() {
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">Budget Tracker</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/project02/budget_tracker.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="https://i.imgur.com/JaIreHQ.png" alt="" />
                                     <p>
                                         A simple budget tracker application that can help keep track on your spending
                                         and be able to be used offline using indexDB.
@@ -123,7 +123,7 @@ function Portfolio() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/project03/quiz_thumbnail.png" alt="" />
+                                <img class="img-fluid" src="https://i.imgur.com/yPZ0Ytx.png" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Bookend</div>
@@ -139,7 +139,7 @@ function Portfolio() {
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">Bookend</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/project03/coding_quiz.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="https://i.imgur.com/5sfEgvh.png" alt="" />
                                     <p>Are you struggling to find a good book to read or show to watch? During lockdown good media that you 
                                         can sink your teeth in can be hard to find. Bookend is a website that will recomend books and Tv Shows 
                                         that you can watch based on your prefences.
@@ -174,7 +174,7 @@ function Portfolio() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/project04/passgen_thumbnail.png" alt="" />
+                                <img class="img-fluid" src="https://i.imgur.com/PSBgJ8H.png" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Password Generator</div>
@@ -190,7 +190,7 @@ function Portfolio() {
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">Password Generator</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/project04/passgen.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="https://i.imgur.com/gA0dxtd.png" alt="" />
                                     <p>This is a password generator that can generate a custom length and uses the entire character codes!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -222,7 +222,7 @@ function Portfolio() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/project05/reward-bank-logo.png" alt="" />
+                                <img class="img-fluid" src="https://i.imgur.com/CCRwSnr.png" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Reward Bank</div>
@@ -238,7 +238,7 @@ function Portfolio() {
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">Reward Bank</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/project05/reward_bank.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="https://i.imgur.com/aF4MNBN.png" alt="" />
                                     <p>As the world begins to move more and more towards digital currency and away from physical, 
                                         Reward Bank strives to teach children the importance of money management that reflects how we now interact with money.</p>
                                     <ul class="list-inline">
@@ -272,7 +272,7 @@ function Portfolio() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/project06/weather_thumbnail.png" alt="" />
+                                <img class="img-fluid" src="https://i.imgur.com/64nOn50.png" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Weather Dashboard</div>
@@ -290,7 +290,7 @@ function Portfolio() {
                                 <div class="modal-body">
                                     <h2 class="text-uppercase">Weather Dashboard</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/project06/weather_app.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="https://i.imgur.com/vBh6E3x.png" alt="" />
                                     <p>A simple weather dashboard that uses the third party api open weather app to get accurate information.
                                         to use the application just type in any city, state or country to get the forecast today and the next
                                         4 days.
