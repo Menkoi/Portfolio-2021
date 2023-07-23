@@ -15,11 +15,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions
 click the link to check out the website https://menkoi.github.io/Portfolio-2021/
-
- ## Questions? Contact me
-
-  - Menkoi
-
-  - https://github.com/Menkoi
-
-  - celaeon@gmail.com
